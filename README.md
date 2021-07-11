@@ -51,3 +51,4 @@ learn spec/02_shoe_spec.rb
 ```
 
 Happy coding!
+# Phase3PuttingThePiecesTogether
